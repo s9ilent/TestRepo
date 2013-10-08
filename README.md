@@ -1,4 +1,0 @@
-TestRepo
-========
-
-Test repository
